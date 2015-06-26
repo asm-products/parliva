@@ -11,10 +11,10 @@ angular.module('parliva').config do
 		.state 'entrySignIn', url: '/sign-in', template: '<meteor-include src="entrySignIn"></meteor-include>'
 		.state 'entrySignUp', url: '/sign-up', template: '<meteor-include src="entrySignUp"></meteor-include>'
 		
-		# .state 'home',
-		# 	url: '/'
-		# 	templateUrl: 'client/views/home/home.ng.html'
-		# 	controller: 'HomeController'
+		.state 'landing',
+			url: '/'
+			templateUrl: 'client/views/landing/landing.ng.html'
+			controller: 'LandingController'
 
 		.state 'dashboard',
 			url: '/dashboard'

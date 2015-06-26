@@ -11,6 +11,10 @@ angular.module('parliva').config(['$urlRouterProvider', '$stateProvider', '$loca
   }).state('entrySignUp', {
     url: '/sign-up',
     template: '<meteor-include src="entrySignUp"></meteor-include>'
+  }).state('landing', {
+    url: '/',
+    templateUrl: 'client/views/landing/landing.ng.html',
+    controller: 'LandingController'
   }).state('dashboard', {
     url: '/dashboard',
     templateUrl: 'client/views/dashboard/dashboard.ng.html',
