@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"name": "Parliva",
+			"path": ".",
+			"folder_exclude_patterns": ["*/ls-compiled", ".meteor"]
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4,
+		"translate_tabs_to_spaces": false
+	}
+}

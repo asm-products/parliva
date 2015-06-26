@@ -1,0 +1,32 @@
+<header>
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/#/">Parliva</a>
+			</div>
+			<div id="navbar" class="collapse navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li ng-show="$root.currentUser" ng-class="{active: isPath('/dashboard')}"><a href="/dashboard">People</a></li>
+					<li ng-show="$root.currentUser" ng-class="{active: isPath('/profile')}"><a href="/profile">Profile</a></li>
+					<li ng-show="$root.currentUser" ng-class="{active: isPath('/messages')}" ng-controller="MessagesController">
+						<a href="/messages">
+							Messages
+							<span class="badge" ng-show="messages.length > 0">{{ latestMessages(messages).length }}</span>
+						</a>
+					</li>
+					<li ng-show="$root.currentUser">
+						<div style="padding-top:15px;">
+							<meteor-include src="loginButtons"></meteor-include>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>

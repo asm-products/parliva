@@ -1,0 +1,41 @@
+<head>
+	<base href="/">
+
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="img/favicon.ico">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Parliva</title>
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+	<script src="https://kandy-portal.s3.amazonaws.com/public/javascript/fcs/3.0.4/fcs.js" ></script>
+	<script src="https://kandy-portal.s3.amazonaws.com/public/javascript/kandy/2.2.2/kandy.js" ></script>
+	<script src="/bower_components/angular-scroll-glue/src/scrollglue.js"></script>	
+	<script src="/bower_components/moment/moment.js"></script>
+	<script src="/bower_components/angular-moment/angular-moment.js"></script>
+	<script src="/bower_components/ng-file-upload/angular-file-upload-shim.min.js"></script> <!-- for no html5 browsers support -->
+	<script src="/bower_components/ng-file-upload/angular-file-upload.min.js"></script> 
+	<script src="/bower_components/angular-gravatar/build/angular-gravatar.min.js"></script> 
+	<script src="/bower_components/sweetalert/dist/sweetalert.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/bower_components/sweetalert/dist/sweetalert.css">
+
+</head>
+
+
+<body>
+
+	<!--[if lt IE 9]>
+		<p class="browser-warning"><strong><i class="icon-exclamation-sign"></i> Warning</strong> - You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to properly view this website.</p>
+	<![endif]-->
+
+	<div id="layout-container" ng-app="parliva">
+		<div ng-include="'client/views/_defaults/header.ng.html'"></div>
+		<div class="container" id="main-container">
+			<div ui-view></div>
+		</div>
+	</div>
+	
+</body>

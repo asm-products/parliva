@@ -1,0 +1,51 @@
+<div id="users">
+	<h1>Users</h1>
+	<form class="form">
+		<div class="row">
+			<div class="form-group col-md-2">
+				<select class="form-control" ng-options="category.key as category.label for category in categories" ng-model="$root.currentUser.profile.category">
+					<option value="">All categories</option>
+				</select>
+			</div>
+			<div class="form-group col-md-10">
+				<input type="text" class="form-control" placeholder="Search...">
+			</div>	
+		</div>
+		
+	</form>
+
+	<table class="table table-striped">
+		<tbody>
+			<tr ng-repeat="user in users">
+				<td class="col-md-2 col-sm-4 col-xs-4">
+					<img ng-src="{{ user.profile.portraitURL }}" class="img-circle img-responsive">
+				</td>
+
+				<td class="col-md-10 col-sm-8 col-xs-8">
+					<!-- Header -->
+					<p class="text-muted pull-right" style="margin-right:20px;">{{ categoryLabel(user.profile.category) }}</p>
+					<h2>
+						{{user.profile.name || user.username || users.emails[0].address}}
+						<small>{{ user.profile.title }}</small>
+					</h2>
+
+					<!-- Prices -->
+					<span class="text-success table-rate-price" ng-show="user.profile.ratePerHour">
+						<i class="fa fa-clock-o"></i>
+						{{ user.profile.ratePerHour | currency}} / hr
+					</span>
+					&nbsp;&nbsp;&nbsp;
+					<span class="text-success table-rate-price" ng-show="user.profile.ratePerSession">
+						<i class="fa fa-circle"></i>
+							{{ user.profile.ratePerSession | currency}} / session
+					</span>
+					<!-- Description -->
+					<p style="margin-top:5px;">
+						{{ user.profile.description }}
+					</p>
+					<a ng-href="/chat/{{user._id}}" class="btn btn-success">Contact</a>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

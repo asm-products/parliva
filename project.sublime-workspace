@@ -1,0 +1,2418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"paypalEmail"
+			],
+			[
+				"paidto",
+				"paidToParliva"
+			],
+			[
+				"ent",
+				"entrySignIn"
+			],
+			[
+				"entry",
+				"entrySignUp"
+			],
+			[
+				"logged",
+				"loggedInCallback"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"table",
+				"table-rate-price"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"vali",
+				"validateUserFunc"
+			],
+			[
+				"portra",
+				"portraitId"
+			],
+			[
+				"fil",
+				"fileId"
+			],
+			[
+				"file",
+				"fileObj"
+			],
+			[
+				"send",
+				"senderId"
+			],
+			[
+				"valu",
+				"valueLink"
+			],
+			[
+				"bs3-",
+				"bs3-form	bs3-form"
+			],
+			[
+				"Kand",
+				"KandyVideo"
+			],
+			[
+				"ans",
+				"answerVideoCall"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"veh",
+				"vehicleYearValidation"
+			],
+			[
+				"field",
+				"field	text-field"
+			],
+			[
+				"lo",
+				"loanRequest"
+			],
+			[
+				"cri",
+				"criterion"
+			],
+			[
+				"pred",
+				"predioId"
+			],
+			[
+				"sto",
+				"storyPoints"
+			],
+			[
+				"curr",
+				"currentTab"
+			],
+			[
+				"subm",
+				"submitRequest (fn)"
+			],
+			[
+				"dista",
+				"distanceText (num)"
+			],
+			[
+				"tab",
+				"tableview (obj)"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"valida",
+				"validateEmail"
+			],
+			[
+				"first",
+				"firstSimptom"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"firs",
+				"firstNonTextEntry (?)"
+			],
+			[
+				"formid",
+				"formid"
+			],
+			[
+				"match",
+				"match_id"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"log",
+				"log	log"
+			],
+			[
+				"cla",
+				"claimedIdentifier"
+			],
+			[
+				"image",
+				"imagesDataFutures"
+			],
+			[
+				"crudM",
+				"crudMethods"
+			],
+			[
+				"input",
+				"input"
+			],
+			[
+				"pri",
+				"pricePerTeam"
+			],
+			[
+				"ng-rea",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"auth",
+				"authUrl"
+			],
+			[
+				"aut",
+				"authUrl"
+			],
+			[
+				"find",
+				"find	find { … }"
+			],
+			[
+				"Asse",
+				"AssetEntryQuery"
+			],
+			[
+				"desc",
+				"descText"
+			],
+			[
+				"imag",
+				"imageFolders"
+			],
+			[
+				"developer",
+				"developer"
+			],
+			[
+				"deve",
+				"developerGoals"
+			],
+			[
+				"develop",
+				"developers"
+			],
+			[
+				"getpo",
+				"getProjectConfig"
+			],
+			[
+				"region",
+				"regionalButton"
+			],
+			[
+				"soci",
+				"socialButton"
+			],
+			[
+				"feed",
+				"feedButton"
+			],
+			[
+				"bind",
+				"bind	bindBoolean"
+			],
+			[
+				"sym",
+				"symptomId"
+			],
+			[
+				"period",
+				"periodStart"
+			],
+			[
+				"contr",
+				"controller"
+			],
+			[
+				"res",
+				"responseMap"
+			],
+			[
+				"view",
+				"viewTemplateEditor"
+			],
+			[
+				"contro",
+				"controllerCodeEditor"
+			],
+			[
+				"rejec",
+				"rejection_reason"
+			],
+			[
+				"scrol",
+				"scrollView"
+			],
+			[
+				"show",
+				"showPreview"
+			],
+			[
+				"visi",
+				"visibilityList"
+			],
+			[
+				"visibi",
+				"visibilityList"
+			],
+			[
+				"gigt",
+				"gigTypeValue"
+			],
+			[
+				"submit",
+				"submitAction"
+			],
+			[
+				"venu",
+				"venueField"
+			],
+			[
+				"update",
+				"updateGigType"
+			],
+			[
+				"finan",
+				"financingTopOffset"
+			],
+			[
+				"top",
+				"addressTopOffset"
+			],
+			[
+				"address",
+				"addressTopOffset"
+			],
+			[
+				"curren",
+				"currentStep"
+			],
+			[
+				"current",
+				"currentCard"
+			],
+			[
+				"json",
+				"jsonResponse"
+			],
+			[
+				"sett",
+				"settingsList"
+			],
+			[
+				"render",
+				"renderJSON"
+			],
+			[
+				"track",
+				"trackRecordId"
+			],
+			[
+				"FIXE",
+				"FIXED_AND_TIPS"
+			],
+			[
+				"ty",
+				"typeStr"
+			],
+			[
+				"oil",
+				"oilSlider"
+			],
+			[
+				"HIDE",
+				"hideIndicator"
+			],
+			[
+				"play",
+				"playStatusText"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"password",
+				"passwordField"
+			],
+			[
+				"passw",
+				"passwordField"
+			],
+			[
+				"minut",
+				"minutesRemaningText"
+			],
+			[
+				"arro",
+				"arrowImageView"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"minutes",
+				"minutesRemaning"
+			],
+			[
+				"min",
+				"minutesRemaning"
+			],
+			[
+				"create",
+				"createdDate"
+			],
+			[
+				"bir",
+				"birthdayMoment"
+			],
+			[
+				"bi",
+				"birthdayDay"
+			],
+			[
+				"bird",
+				"birthday"
+			],
+			[
+				"change",
+				"birthdayChange"
+			],
+			[
+				"close",
+				"closeEvent"
+			],
+			[
+				"load",
+				"loadingIndicator"
+			],
+			[
+				"next",
+				"nextNotificationDate"
+			],
+			[
+				"live",
+				"liveGig"
+			],
+			[
+				"li",
+				"liveGigs"
+			],
+			[
+				"tick",
+				"ticketId"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"action",
+				"action	action"
+			],
+			[
+				"like",
+				"likeButton"
+			],
+			[
+				"site",
+				"siteValue"
+			],
+			[
+				"fiel",
+				"fieldId"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"Expen",
+				"ExpensesPortlet"
+			],
+			[
+				"combo",
+				"combo enum	combo enum"
+			],
+			[
+				"profi",
+				"profilePicBase64"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"profil",
+				"profilePicBase64"
+			],
+			[
+				"base64",
+				"profilePicBase64"
+			],
+			[
+				"prof",
+				"profilePicBase64"
+			],
+			[
+				"hidd",
+				"hiddenView"
+			],
+			[
+				"sympt",
+				"symptoms"
+			],
+			[
+				"pur",
+				"purchasePills"
+			],
+			[
+				"symp",
+				"symptom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/views/profile/profile.ls",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/profile/profile.ng.html",
+			"settings":
+			{
+				"buffer_size": 4030,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/publications.ls",
+			"settings":
+			{
+				"buffer_size": 907,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/dashboard/dashboard.ls",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/dashboard/dashboard.ng.html",
+			"settings":
+			{
+				"buffer_size": 1665,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/dashboard/dashboard.css",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/chat/chat.ls",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/paypal.ls",
+			"settings":
+			{
+				"buffer_size": 2442,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/messages/messages.ng.html",
+			"settings":
+			{
+				"buffer_size": 480,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/messages/messages.ls",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/chat/chat.ng.html",
+			"settings":
+			{
+				"buffer_size": 2677,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/views/_defaults/header.ng.html",
+			"settings":
+			{
+				"buffer_size": 1324,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/MakeTi/MakeTi.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"totabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsx",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"totab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"handleba",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"handlebar",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"livesc",
+				"Set Syntax: LiveScript"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"play",
+				"Set Syntax: HTML (Play!)"
+			],
+			[
+				"tospaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"groovy",
+				"Set Syntax: Groovy"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"freem",
+				"Set Syntax: FreeMarker"
+			],
+			[
+				"freema",
+				"Set Syntax: FreeMarker"
+			],
+			[
+				"convert to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Play!)"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"properties",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"packagema",
+				"Package Control: Remove Package"
+			],
+			[
+				"freemar",
+				"Set Syntax: FreeMarker"
+			],
+			[
+				"chunk",
+				"Set Syntax: HTML (Chunk templates)"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax: html",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"musta",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"mustach",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"mustache",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				":li",
+				"Goto Symbol : List symbols"
+			],
+			[
+				"pla",
+				"Set Syntax: HTML (Play!)"
+			],
+			[
+				":",
+				"Goto Symbol : List symbols"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"play ",
+				"Set Syntax: HTML (Play!)"
+			],
+			[
+				"snippet",
+				"Snippet: Function (fun)"
+			],
+			[
+				"haxe",
+				"Set Syntax: HaXe2"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: case class"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mardo/meteor_projects/parliva/client/stylesheets/lib/font-awesome.css",
+		"/Users/mardo/meteor_projects/parliva/client/views/messages/messages.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/_defaults/header.ng.html",
+		"/Users/mardo/meteor_projects/parliva/client/angular-routes.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/messages/messages.ng.html",
+		"/Users/mardo/meteor_projects/parliva/server/publications.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/chat/chat.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/chat/chat.ng.html",
+		"/Users/mardo/meteor_projects/parliva/client/views/dashboard/dashboard.ng.html",
+		"/Users/mardo/meteor_projects/parliva/index.html",
+		"/Users/mardo/meteor_projects/parliva/client/views/_defaults/header.html",
+		"/Users/mardo/meteor_projects/parliva/public/landing/index.html",
+		"/Users/mardo/meteor_projects/parliva/server/rest.ls",
+		"/Users/mardo/meteor_projects/parliva/client/main.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/home/home.ng.html",
+		"/Users/mardo/meteor_projects/parliva/server/accounts.ls",
+		"/Users/mardo/meteor_projects/parliva/server/paypal.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/profile/profile.ng.html",
+		"/Users/mardo/meteor_projects/parliva/client/lib/angular-init.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/dashboard/dashboard.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/home/home.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/dashboard/dashboard.css",
+		"/Users/mardo/meteor_projects/parliva/client/views/profile/profile.ls",
+		"/Users/mardo/meteor_projects/parliva/client/views/chat/kandy-video.ls",
+		"/Users/mardo/meteor_projects/parliva/public/index.html",
+		"/Users/mardo/meteor_projects/parliva/public/landing/page.html",
+		"/Users/mardo/meteor_projects/parliva/client/compatibility/pace.min.js",
+		"/Users/mardo/meteor_projects/parliva/client/views/chat/main.ls",
+		"/Users/mardo/meteor_projects/parliva/client/services/categories-service.ls",
+		"/Users/mardo/meteor_projects/parliva/client/filters/fs-filter.ls",
+		"/Users/mardo/meteor_projects/parliva/project.sublime-workspace",
+		"/Users/mardo/meteor_projects/parliva/project.sublime-project",
+		"/Users/mardo/meteor_projects/parliva/client/views/home/home.html",
+		"/Users/mardo/meteor_projects/parliva/.meteor/local/build/programs/web.browser/app/client/views/home/template.home.js",
+		"/Users/mardo/meteor_projects/parliva/.meteor/local/build/programs/web.browser/head.html",
+		"/Users/mardo/meteor_projects/parliva/.meteor/local/build/programs/web.browser/app/client/views/chat/chat.ng.html.js",
+		"/Users/mardo/meteor_projects/parliva/.meteor/local/build/programs/web.browser/app/client/views/_defaults/template.header.js",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/dashboard/dashboard.ls",
+		"/Users/mardo/meteor_projects/nutcoach/server/paypal.ls",
+		"/Users/mardo/meteor_projects/nutcoach/server/accounts.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/profile/profile.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/profile/profile.ng.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/main.ls",
+		"/Users/mardo/meteor_projects/nutcoach/server/permissions.ls",
+		"/Users/mardo/meteor_projects/nutcoach/server/publications.ls",
+		"/Users/mardo/meteor_projects/nutcoach/lib/collections.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/filters/fs-filter.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/lib/angular-init.ls",
+		"/Users/mardo/meteor_projects/nutcoach/index.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/chat/chat.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/chat/chat.ng.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/angular-routes.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/compatibility/filepicker.js",
+		"/Users/mardo/meteor_projects/nutcoach/.bowerrc",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/dashboard/dashboard.ng.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/chat/kandy-video.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/chat/chat.less",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/_defaults/header.html",
+		"/Users/mardo/meteor_projects/nutcoach/lib/routes.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/chat/chat.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/home/home.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/profile/profile.html",
+		"/Users/mardo/meteor_projects/nutcoach/profile.ng.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/dashboard/dashboard.html",
+		"/Users/mardo/meteor_projects/nutcoach/project.sublime-project",
+		"/Users/mardo/meteor_projects/nutcoach/client/lib/jquery.blockUI.js",
+		"/Users/mardo/meteor_projects/nutcoach/lib/angular-init.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/profile/profile.jsx",
+		"/Users/mardo/meteor_projects/nutcoach/client/stylesheets/global.less",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/_defaults/index.html",
+		"/Users/mardo/meteor_projects/finco/run_livescript.sh",
+		"/Users/mardo/meteor_projects/nutcoach/run_livescript.sh",
+		"/Users/mardo/meteor_projects/nutcoach/asdf.ng.html",
+		"/Users/mardo/meteor_projects/nutcoach/asdf.html",
+		"/Users/mardo/Downloads/meteor-angular-socially-master/index.html",
+		"/Users/mardo/meteor_projects/nutcoach/.meteor/packages",
+		"/Users/mardo/meteor_projects/nutcoach/packages.json",
+		"/Users/mardo/meteor_projects/nutcoach/lib/react-binding/dist/package.json",
+		"/Users/mardo/meteor_projects/nutcoach/.meteor/release",
+		"/Users/mardo/meteor_projects/nutcoach/shared/routes.ls",
+		"/Users/mardo/meteor_projects/nutcoach/shared/collections.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/dashboard/kandy-video.ls",
+		"/Users/mardo/meteor_projects/nutcoach/server/kandy_methods.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/dashboard/chat.html",
+		"/Users/mardo/Downloads/KandySampleApps (1)/KandyQsIm.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/dashboard/dashboard.jsx",
+		"/Users/mardo/meteor_projects/nutcoach/server/rest.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/lib/require.js",
+		"/Users/mardo/meteor_projects/nutcoach/.gitignore",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/dashboard/kandy-setup.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/dashboard/dashboard.less",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/_defaults/footer.html",
+		"/Users/mardo/meteor_projects/nutcoach/client/stylesheets/global.css",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/header.html",
+		"/Users/mardo/meteor_projects/nutcoach/nutcoach.js",
+		"/Users/mardo/meteor_projects/nutcoach/nutcoach.ls",
+		"/Users/mardo/meteor_projects/nutcoach/client/views/index.html",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra-theme/src/main/webapp/templates/portal_normal.ftl",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra-theme/target/Colintra-theme-1.0-SNAPSHOT/templates/portal_normal.ftl",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra-theme/target/liferay-work/appServerPortalDir/html/themes/classic/templates/portal_normal.ftl",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra/build/processed-files/viking/views/ContactsGridPortlet/contacts-grid-controller.coffee",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra/viking/views/ContactsGridPortlet/contacts-grid-controller.coffee",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra/public/js/angular/init.js",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra/public/js/angular/angular.min.js.map",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra/public/js/angular/angular.min.js",
+		"/Users/mardo/viking-projects/Colintra-env/Colintra/public/js/angular/angular-sanitize.min.js",
+		"/Users/mardo/meteor_projects/finco/livescript/shared/.gitignore",
+		"/Users/mardo/meteor_projects/finco/livescript/client/directives/crud_directive.ls",
+		"/Users/mardo/meteor_projects/finco/client/stylesheets/global.less",
+		"/Users/mardo/meteor_projects/finco/client/views/footer.html",
+		"/Users/mardo/meteor_projects/finco/client/views/header.html",
+		"/Users/mardo/meteor_projects/finco/livescript/shared/models.ls",
+		"/Users/mardo/meteor_projects/finco/client/views/dashboard/payments.html",
+		"/Users/mardo/meteor_projects/finco/livescript/client/controllers/payments-controller.ls",
+		"/Users/mardo/meteor_projects/finco/livescript/collections/collections.ls",
+		"/Users/mardo/meteor_projects/finco/livescript/client/controllers/loan-requests-controller.ls",
+		"/Users/mardo/meteor_projects/finco/livescript/server/permissions.ls",
+		"/Users/mardo/meteor_projects/finco/livescript/server/publications.ls",
+		"/Users/mardo/meteor_projects/finco/livescript/shared/i18n.ls",
+		"/Users/mardo/meteor_projects/finco/client/views/users/users.html",
+		"/Users/mardo/meteor_projects/finco/livescript/client/controllers/users-controller.ls",
+		"/Users/mardo/Documents/Titanium_Studio_Workspace/econnectcard2/.project",
+		"/Users/mardo/.zprofile",
+		"/Users/mardo/meteor_projects/finco/client/views/dashboard/loan_request_result.html",
+		"/Users/mardo/meteor_projects/finco/client/views/crud/crud.html",
+		"/Users/mardo/meteor_projects/finco/livescript/server/main.ls",
+		"/Users/mardo/meteor_projects/finco/livescript/client/controllers/predios-controller.ls",
+		"/Users/mardo/meteor_projects/finco/client/views/dashboard/loan-requests.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"-/Users/mardo/meteor_projects/parliva/.meteor",
+			"",
+			"*.ls",
+			"",
+			"*.css,*.less",
+			"",
+			"*.ls",
+			"",
+			"*.ftl",
+			"",
+			"*.coffee",
+			"",
+			"*.coffee",
+			"",
+			"*.java",
+			"",
+			"*.java",
+			"",
+			"*.java",
+			"",
+			"*.jsp",
+			"",
+			"<open files>",
+			"/Users/mardo/Apps/drakkar/FormServices/viking/views/FunctionsManagerPortlet",
+			"/Users/mardo/Apps/drakkar/FormServices/viking/views/FunctionsManagerPortlet,FunctionsManagerPortlet.groovy",
+			"",
+			"*.html,*.css",
+			"*.html",
+			"",
+			"/Users/mardo/Apps/mergewebdigital/webapp/src/main/webapp",
+			"",
+			"/Users/mardo/Documents/TitaniumStudioWorkspace/Inguat3D",
+			"/Users/mardo/Documents/TitaniumStudioWorkspace/Inguat3D/Resources",
+			"",
+			"/Users/mardo/Apps/snipp/CachaDuendesApp/Resources",
+			"",
+			"/Users/mardo/Apps/snipp/CachaDuendesApp/Resources",
+			"",
+			"/Users/mardo/Documents/TitaniumStudioWorkspace/Inguat3D/Resources",
+			"",
+			"/Users/mardo/Documents/TitaniumStudioWorkspace/Inguat3D/Resources",
+			"",
+			"/Users/mardo/Apps/snipp/CachaDuendesApp/Resources",
+			"",
+			"messagesGraph",
+			"",
+			"message.organization",
+			"/Users/mardo/Apps/smartSMS/app/models",
+			"",
+			"/Users/mardo/Apps/smartSMS/app/models",
+			"",
+			"/Users/mardo/Apps/smartSMS/app,/Users/mardo/Apps/smartSMS/conf",
+			"",
+			"/Users/mardo/Apps/smartSMS/app/controllers",
+			"",
+			"*.html",
+			"s*.html",
+			"show*.html",
+			"show.html",
+			"*.html",
+			"show.html",
+			"",
+			"/Users/mardo/Apps/ficohsa/lib",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"P3QoPSyhqsTdVv1r6I7KDIexE2iwXTwSub_jZ2zIBrUlmrcFOACDG5Z4_iCn3Rm_hmzdQ4Pzjeb0gQ9",
+			"\"\"",
+			"-",
+			"sandbox",
+			"paypalUrl",
+			"div",
+			"table-rate-price",
+			"entrySignIn",
+			"senderId",
+			"username",
+			".cookies",
+			"var ",
+			"http://www.creative-tim.com",
+			"//////",
+			"http://www.creative-tim.com",
+			".com",
+			"loggedInCallback",
+			"img",
+			"true",
+			"false",
+			"incoming",
+			"[\"$meteor\", ($meteor) ->",
+			"{currentUser: auth}",
+			".user_id",
+			"call answered",
+			"block",
+			"calling",
+			"appy",
+			"callStatus",
+			"currentUser",
+			"_id",
+			"<button",
+			"endCall",
+			"logout",
+			"KandyAPI.Phone",
+			"setup",
+			"audio",
+			"callanswered",
+			"callinitiatefailed",
+			"oncall",
+			"callincoming",
+			"callendedfailed",
+			": ",
+			"loginfailed",
+			"kandy",
+			"answerVideoCall",
+			"Kandy",
+			"callincoming",
+			"answerVideoCall",
+			"setup",
+			"text-success",
+			"span",
+			"small",
+			"<button type=\"button\"",
+			"<button",
+			"ratePerHour",
+			"root.currentUser",
+			"h3",
+			"ratePerHour",
+			"col-sm-",
+			"class=\"col-md-",
+			"class=\"col-md-2\"",
+			"=\"span",
+			"v1.1",
+			"DAT66973871195447f9a5df052429bd59c7",
+			"NUTCOACH",
+			"nutcoach",
+			"NutCoach",
+			"nutcoach",
+			"Description",
+			"// ",
+			"Sandbox",
+			"JSON",
+			"// ",
+			"//",
+			"Meteor.wrapAsync",
+			"$rootScope.currentUser",
+			"button",
+			"false",
+			"components",
+			"isMe",
+			"currentUser",
+			"width: 100%;",
+			"right",
+			"$scope.partner",
+			"150px",
+			"100px",
+			"subscribe",
+			"stateParams",
+			"span",
+			"chat-container",
+			"chat-container\n",
+			"profile",
+			"dashboard-container",
+			"ngMeteor",
+			"ng-show=\"user\"",
+			".name",
+			"className",
+			"class",
+			"this.",
+			"react",
+			"Deps.autorun",
+			"shared",
+			"false",
+			"Dashboard.",
+			"friendId",
+			"getIms",
+			"getImInterval",
+			"getIms",
+			" ",
+			"onCreateUser",
+			"new Vue",
+			".ls",
+			"new Vue",
+			"new Vuew",
+			"https://www.paypalobjects.com/js/external/paypal-button.min.js?merchant=",
+			" ->",
+			"// ",
+			"presenc",
+			"pres",
+			"dashboard",
+			"dashboardView",
+			"# audio",
+			"callId =",
+			"audio.",
+			"setupAudio",
+			"user_access_token",
+			"videos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"PARLIVA",
+			"parliva",
+			"Parliva",
+			"Tracker.autorun",
+			"top: Ti.App.isAndroid || Ti.App.iOSVersion == 6 ? 0 : \"44dp\"",
+			"Ti.include('/",
+			"'/images/",
+			"},",
+			"var mainView = Ti.UI.createView({\n	top: Ti.App.isAndroid ? 0 : \"44dp\"\n});",
+			"org.vikingportlets.plugins.selenium",
+			"ng-controller",
+			"h.themeDisplay, \"&videoPreview=1&type=mp4\")",
+			"post-video-file-entry-id",
+			"Alloy.isTablet",
+			"abcd",
+			"lastIndexOf(\"/\")+1",
+			"fontFamily: 'OpenSans-Regular',",
+			"Nee: function () {",
+			"Ja: function () {",
+			"",
+			"InviteMembersPortlet.mail",
+			"OpenSans-Regular",
+			"var titleLabel = Titanium.UI.createLabel({\n    color:theme.textColor,\n    backgroundColor: theme.headerColor,",
+			"var titleLabel = Titanium.UI.createLabel({\n	    color:theme.textColor,\n	    backgroundColor: theme.headerColor,",
+			"var titleLabel = Titanium.UI.createLabel({\n		color: theme.textColor,\n		backgroundColor: theme.headerColor,",
+			"barColor : 'transparent',",
+			"// barColor : theme.buttonColor,",
+			"OpenSans-Regular",
+			"'images",
+			"fontFamily: 'Gill Sans MT'",
+			"studentennet_color.jpg",
+			"studentennet_color",
+			"import nl.drakkar.sitebuilder.context.ImportContext\nimport nl.drakkar.sitebuilder.context.ExportContext",
+			"def generateDSL(ExportContext exportContext, int depth) {",
+			"generateDSL(exportContext, depth+1)",
+			"importContext",
+			"def generateDSL(int depth) {",
+			"generateDSL(depth+1)",
+			"generateDSL(exportContext, depth+1)",
+			"def generateDSL(ExportContext exportContext, int depth) {",
+			" + NEWLINE",
+			"import utils.FormatUtils\n + NEWLINE",
+			"import utils.FormatUtils\nimport static utils.FormatUtils.NEWLINE",
+			"FormatUtils.NEWLINE",
+			"NEWLINE",
+			"indWin = Titanium.UI.createView({",
+			"package ",
+			"void",
+			"messages.",
+			"functions",
+			"function",
+			"Function",
+			"Functions",
+			"Function",
+			"functions",
+			"function",
+			"class=\"class=\"img_button\"\" >Back</a>",
+			"{\"reportId\"",
+			"Contact us at:",
+			"Copyright &copy; 2012 Digitalgeko, all rights reserved.",
+			"Digitalgeko",
+			"digitalgeko.com",
+			"DocumentsByCategoryPortlet.render",
+			"documents-by-categories",
+			"route(request.getParameter(\"renderAction\")",
+			"renderAction",
+			"addChildSite",
+			"addSiteChild",
+			"EditController.render",
+			"FirelayPage authenticatedPage = LoginPageFactory.getAuthenticatedPage();",
+			"terms-of-service",
+			"Page",
+			"userInfo",
+			"wishlists",
+			"whishlists",
+			"28CEBE",
+			"android:soundEffectsEnabled=\"true\"",
+			"Guatemala 3D",
+			"com.aurasma.aurasma",
+			"com.digitalgeko.aurasma",
+			"com.aurasma.aurasma",
+			"top:\"50dp\",",
+			"nextGameTimestamp",
+			"width: \"40%\",",
+			"runningElf",
+			"isTablet",
+			"cachaduendes.digitalgeko.com",
+			"Ti.App.defaultLanguage",
+			"com.mdelcid.vuforia.inguat",
+			"sentMessages",
+			"Dial",
+			"dial",
+			"monthlyPlanMessages",
+			"messagesGraph",
+			"sending",
+			"extends MorphiaCRUD",
+			"extends CRUD",
+			"extends MorphiaCRUD",
+			"&{'exportToPdf'}",
+			"&{'exportToExcel'}",
+			"svn add ",
+			",\n",
+			"name",
+			"serviceAvailableUntil",
+			"serviceAvailableFrom",
+			"additionalMessagePrice",
+			"\\$",
+			"dateTo",
+			"dateFrom",
+			"#{form @delete(object._key()), class : \"no-margin\"}\n			<p class=\"crudDelete\">",
+			"#{form @delete(object._key()), class: \"no-margin\"}\n        <p class=\"crudDelete\">",
+			"BFrogs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/views/profile/profile.ls",
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								356
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/views/profile/profile.ng.html",
+					"settings":
+					{
+						"buffer_size": 4030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2552,
+								2552
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 761.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/publications.ls",
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/views/dashboard/dashboard.ls",
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/views/dashboard/dashboard.ng.html",
+					"settings":
+					{
+						"buffer_size": 1665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1388,
+								1402
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/views/dashboard/dashboard.css",
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/views/chat/chat.ls",
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1248,
+								1248
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "server/paypal.ls",
+					"settings":
+					{
+						"buffer_size": 2442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1865,
+								1873
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 461.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "client/views/messages/messages.ng.html",
+					"settings":
+					{
+						"buffer_size": 480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "client/views/messages/messages.ls",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								204
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LiveScript/Syntaxes/LiveScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "client/views/chat/chat.ng.html",
+					"settings":
+					{
+						"buffer_size": 2677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "client/views/_defaults/header.ng.html",
+					"settings":
+					{
+						"buffer_size": 1324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1155,
+								1155
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.haxe":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"head",
+				"client/views/_defaults/header.ng.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"public",
+				"server/publications.ls"
+			],
+			[
+				"chathtml",
+				"client/views/chat/chat.ng.html"
+			],
+			[
+				"messa",
+				"client/views/messages/messages.ls"
+			],
+			[
+				"messageshtml",
+				"client/views/messages/messages.ng.html"
+			],
+			[
+				"messag",
+				"client/views/messages/messages.ls"
+			],
+			[
+				"pay",
+				"server/paypal.ls"
+			],
+			[
+				"chat",
+				"client/views/chat/chat.ls"
+			],
+			[
+				"dash",
+				"client/views/dashboard/dashboard.ng.html"
+			],
+			[
+				"profileh",
+				"client/views/profile/profile.ng.html"
+			],
+			[
+				"profilels",
+				"client/views/profile/profile.ls"
+			],
+			[
+				"header",
+				"client/views/_defaults/header.ng.html"
+			],
+			[
+				"dashboard",
+				"client/views/dashboard/dashboard.ng.html"
+			],
+			[
+				"publi",
+				"server/publications.ls"
+			],
+			[
+				"chatls",
+				"client/views/chat/chat.ls"
+			],
+			[
+				"route",
+				"client/angular-routes.ls"
+			],
+			[
+				"profile",
+				"client/views/profile/profile.ng.html"
+			],
+			[
+				"paypa",
+				"server/paypal.ls"
+			],
+			[
+				"profile.",
+				"client/views/profile/profile.ng.html"
+			],
+			[
+				"angula",
+				"client/angular-routes.ls"
+			],
+			[
+				"angular",
+				"client/lib/angular-init.ls"
+			],
+			[
+				"kand",
+				"client/views/chat/kandy-video.ls"
+			],
+			[
+				"profile.ls",
+				"client/views/profile/profile.ls"
+			],
+			[
+				"paypal",
+				"server/paypal.ls"
+			],
+			[
+				"accounts",
+				"server/accounts.ls"
+			],
+			[
+				"colle",
+				"lib/collections.ls"
+			],
+			[
+				"permi",
+				"server/permissions.ls"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"mainls",
+				"client/main.ls"
+			],
+			[
+				"angularini",
+				"client/lib/angular-init.ls"
+			],
+			[
+				"rout",
+				"client/angular-routes.ls"
+			],
+			[
+				"accou",
+				"server/accounts.ls"
+			],
+			[
+				"angularou",
+				"client/angular-routes.ls"
+			],
+			[
+				"routes",
+				"lib/routes.ls"
+			],
+			[
+				"account",
+				"server/accounts.ls"
+			],
+			[
+				"permiss",
+				"server/permissions.ls"
+			],
+			[
+				"main",
+				"client/main.ls"
+			],
+			[
+				"profilehtml",
+				"client/views/profile/profile.html"
+			],
+			[
+				"coll",
+				"shared/collections.ls"
+			],
+			[
+				".pack",
+				".meteor/packages"
+			],
+			[
+				".packa",
+				".meteor/packages"
+			],
+			[
+				"dashboar",
+				"client/views/dashboard/dashboard.html"
+			],
+			[
+				"publ",
+				"server/publications.ls"
+			],
+			[
+				"routels",
+				"shared/routes.ls"
+			],
+			[
+				"dashboa",
+				"client/views/dashboard/dashboard.ls"
+			],
+			[
+				"glob",
+				"client/stylesheets/global.less"
+			],
+			[
+				"footer",
+				"client/views/_defaults/footer.html"
+			],
+			[
+				"init",
+				"target/Colintra-theme-1.0-SNAPSHOT/templates/init.ftl"
+			],
+			[
+				"navigation",
+				"target/Colintra-theme-1.0-SNAPSHOT/templates/navigation.ftl"
+			],
+			[
+				"portalnormal",
+				"src/main/webapp/templates/portal_normal.ftl"
+			],
+			[
+				"portalnorma",
+				"target/Colintra-theme-1.0-SNAPSHOT/templates/portal_normal.ftl"
+			],
+			[
+				"subcontr",
+				"viking/views/SubmenuPortlet/submenu-controller.coffee"
+			],
+			[
+				"contactscontro",
+				"viking/views/ContactsPortlet/contacts-controller.coffee"
+			],
+			[
+				"profilecontroller",
+				"viking/views/ProfileBarPortlet/profile-bar-controller.coffee"
+			],
+			[
+				"portletcon",
+				"conf/portlet.conf"
+			],
+			[
+				"profilebarview",
+				"viking/views/ProfileBarPortlet/view.ftl"
+			],
+			[
+				"init.js",
+				"Colintra/public/js/angular/init.js"
+			],
+			[
+				"servi",
+				"livescript/assets/lib/service.ls"
+			],
+			[
+				"hol",
+				"livescript/controllers/home.ls"
+			],
+			[
+				"models",
+				"Project/shared/models.ls"
+			],
+			[
+				".git",
+				"Project/shared/.gitignore"
+			],
+			[
+				"crudls",
+				"Project/client/directives/crud_directive.ls"
+			],
+			[
+				"crud.ls",
+				"Project/client/directives/crud_directive.ls"
+			],
+			[
+				"global",
+				"Styles/global.less"
+			],
+			[
+				"foot",
+				"Views/footer.html"
+			],
+			[
+				"sty",
+				"Styles/global.less"
+			],
+			[
+				"model",
+				"Project/shared/models.ls"
+			],
+			[
+				"paymen",
+				"Views/dashboard/payments.html"
+			],
+			[
+				"permisi",
+				"Project/server/permissions.ls"
+			],
+			[
+				"loan",
+				"Project/client/controllers/loan-requests-controller.ls"
+			],
+			[
+				"i",
+				"Project/shared/i18n.ls"
+			],
+			[
+				"users",
+				"Views/users/users.html"
+			],
+			[
+				"loanrequest",
+				"Project/client/controllers/loan-requests-controller.ls"
+			],
+			[
+				"payment",
+				"Views/dashboard/payments.html"
+			],
+			[
+				"payme",
+				"Project/client/controllers/payments-controller.ls"
+			],
+			[
+				"crud",
+				"Project/client/directives/crud_directive.ls"
+			],
+			[
+				"curd",
+				"Views/crud/crud.html"
+			],
+			[
+				"user",
+				"Views/users/users.html"
+			],
+			[
+				"mode",
+				"Project/shared/models.ls"
+			],
+			[
+				"permis",
+				"Project/server/permissions.ls"
+			],
+			[
+				"loanre",
+				"Views/dashboard/loan-requests.html"
+			],
+			[
+				"18n",
+				"Project/shared/i18n.ls"
+			],
+			[
+				"pub",
+				"Project/server/publications.ls"
+			],
+			[
+				"userscon",
+				"Project/client/controllers/users-controller.ls"
+			],
+			[
+				"angularro",
+				"Project/client/routes/angular-routes.ls"
+			],
+			[
+				"per",
+				"Project/server/permissions.ls"
+			],
+			[
+				"foo",
+				"Views/footer.html"
+			],
+			[
+				"appc",
+				"Project/client/controllers/app-controller.ls"
+			],
+			[
+				"go",
+				"Styles/global.less"
+			],
+			[
+				"anal",
+				"Project/client/controllers/analysis-controller.ls"
+			],
+			[
+				"home",
+				"Views/home/home.html"
+			],
+			[
+				"flow",
+				"Project/server/flow-upload.ls"
+			],
+			[
+				"app",
+				"Project/client/controllers/app-controller.ls"
+			],
+			[
+				"angularr",
+				"Project/client/routes/angular-routes.ls"
+			],
+			[
+				"homels",
+				"livescript/client/controllers/home.ls"
+			],
+			[
+				"djlist",
+				"ui/DJListWindow.js"
+			],
+			[
+				"req",
+				"ui/RequestWindow.js"
+			],
+			[
+				"request",
+				"ui/RequestWindow.js"
+			],
+			[
+				"ass",
+				"viking/controllers/AssetViewerPortlet.groovy"
+			],
+			[
+				"directives",
+				"client/directives/tournament_directive.js"
+			],
+			[
+				"userhi",
+				"userHistory.js"
+			],
+			[
+				"histo",
+				"historyDetail.js"
+			],
+			[
+				"tablliste",
+				"modules/tableListeners.js"
+			],
+			[
+				"djlistwin",
+				"ui/DJListWindow.js"
+			],
+			[
+				"userhis",
+				"ui/UserHistoryWindow.js"
+			],
+			[
+				"hisot",
+				"historyDetail.js"
+			],
+			[
+				"style",
+				"style.js"
+			],
+			[
+				"djli",
+				"djlistview.js"
+			],
+			[
+				"formvisu",
+				"viking/controllers/FormVisualizerPortlet.groovy"
+			],
+			[
+				"soapdataso",
+				"src/nl/viking/datasource/soap/SoapDataSource.groovy"
+			],
+			[
+				"credits",
+				"credits.js"
+			],
+			[
+				"request.js",
+				"request.js"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"storekit_functions",
+				"storekit_functions.js"
+			],
+			[
+				"requestwi",
+				"ui/RequestWindow.js"
+			],
+			[
+				"storeki",
+				"storekit_functions.js"
+			],
+			[
+				"formvisua",
+				"viking/controllers/FormVisualizerPortlet.groovy"
+			],
+			[
+				"inapp_billing",
+				"inapp_billing.js"
+			],
+			[
+				"credit",
+				"credits.js"
+			],
+			[
+				"userhistory",
+				"userHistory.js"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"web",
+				"ui/WebViewWindow.js"
+			],
+			[
+				"requestwindow",
+				"ui/RequestWindow.js"
+			],
+			[
+				"stackmo",
+				"stackmob/stackmob-prototype.min.js"
+			],
+			[
+				"credi",
+				"credits.js"
+			],
+			[
+				"requestwin",
+				"ui/RequestWindow.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"asaL",
+				"/Users/mardo/Apps/asaLottery/asaLottery.sublime-project"
+			],
+			[
+				"shel",
+				"/Users/mardo/Apps/promocionesSMSBranches/shellLubs/shellLubs.sublime-project"
+			],
+			[
+				"she",
+				"/Users/mardo/Apps/promocionesSMSBranches/shellLubs/shellLubs.sublime-project"
+			],
+			[
+				"",
+				"/Users/mardo/Apps/promocionesSMSBranches/shellLubs/shellLubs.sublime-project"
+			],
+			[
+				"smar",
+				"/Users/mardo/Apps/smartSMS/smartSMS.sublime-project"
+			],
+			[
+				"shelll",
+				"/Users/mardo/Apps/promocionesSMSBranches/shellLubs/shellLubs.sublime-project"
+			],
+			[
+				"asal",
+				"/Users/mardo/Apps/asaLottery/asaLottery.sublime-project"
+			],
+			[
+				"colgate",
+				"/Users/mardo/Apps/colgateSMS/colgateSMS.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true
+}
