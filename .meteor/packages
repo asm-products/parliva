@@ -21,3 +21,4 @@ cfs:standard-packages
 cfs:gridfs
 meteorhacks:fast-render
 joshowens:accounts-entry
+fds:webrtc
