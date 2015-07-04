@@ -2,7 +2,7 @@
 angular.module('parliva').controller 'ChatController', <[ $scope $meteor $stateParams ]> ++ ($scope, $meteor, $stateParams) ->
 	$scope.aux = {
 		callStatus: "none"
-		kandyStatus: "none"
+
 	}
 
 	$scope.newMessage = {}
@@ -12,10 +12,10 @@ angular.module('parliva').controller 'ChatController', <[ $scope $meteor $stateP
 	$scope.partner = $meteor.object(Meteor.users, $stateParams.userId);
 
 	$scope.call = ->
-		KandyAux.makeCall $scope.partner.kandyData.full_user_id
+		# TODO: Make call with webrtc
 
 	$scope.endCall = ->
-		KandyAux.endCall!
+		# TODO: End call with webrtc
 
 	$scope.isMe = (message) ->
 		$scope.currentUser && message.senderId == $scope.currentUser._id
@@ -38,6 +38,3 @@ angular.module('parliva').controller 'ChatController', <[ $scope $meteor $stateP
 		console.log error, result
 		$scope.paypalUrl = result
 		$scope.$apply!
-
-
-	KandyAux.init $scope

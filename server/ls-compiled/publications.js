@@ -5,7 +5,6 @@ Meteor.publish('portraits', function(){
 Meteor.publish('users', function(){
   return Meteor.users.find({}, {
     fields: {
-      'kandyData.full_user_id': 1,
       "emails": 1,
       "profile": 1,
       "username": 1
@@ -20,7 +19,6 @@ Meteor.publish('consultors', function(){
     }
   }, {
     fields: {
-      'kandyData.full_user_id': 1,
       "emails": 1,
       "profile": 1,
       "username": 1
@@ -50,7 +48,6 @@ Meteor.publish('chat_partners', function(userId){
     _id: userId
   }, {
     fields: {
-      'kandyData.full_user_id': 1,
       "emails": 1,
       "profile": 1,
       "username": 1

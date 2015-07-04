@@ -51,9 +51,9 @@
 <div class="row">
 	<div class="col-md-7">
 
-		<button ng-disabled="aux.kandyStatus != 'loggedIn'" type="button" class="btn btn-primary btn-lg btn-block" ng-show="aux.callStatus == 'none'" ng-click="call()">
-			<i ng-show="aux.kandyStatus != 'loggedIn'" class="fa fa-spinner fa-spin"></i>
-			<span ng-show="aux.kandyStatus == 'loggedIn'">Start video call</span>
+		<button type="button" class="btn btn-primary btn-lg btn-block" ng-show="aux.callStatus == 'none'" ng-click="call()">
+			<i class="fa fa-spinner fa-spin"></i>
+			<span>Start video call</span>
 		</button>
 		<button type="button" class="btn btn-warning btn-lg btn-block" ng-show="aux.callStatus == 'onCall' || aux.callStatus == 'calling'" ng-click="endCall()">End call</button>	
 
