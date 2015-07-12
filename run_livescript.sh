@@ -1,7 +1,3 @@
-# find ./client -type f -not -path "./client/lib*" -exec rm {} \;
-# find ./server -type f -not -path "./server/lib*" -exec rm {} \;
-
-
 rm -rf client/ls-compiled
 rm -rf public/ls-compiled
 rm -rf server/ls-compiled

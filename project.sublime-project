@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"name": "Parliva",
+			"name": "MyMeteorAngularProject",
 			"path": ".",
 			"folder_exclude_patterns": ["*/ls-compiled", ".meteor"]
 		}
