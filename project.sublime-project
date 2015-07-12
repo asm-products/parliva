@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"name": "MyMeteorAngularProject",
+			"name": "MyAngularMeteorProject",
 			"path": ".",
 			"folder_exclude_patterns": ["*/ls-compiled", ".meteor"]
 		}
