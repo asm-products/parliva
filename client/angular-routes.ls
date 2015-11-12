@@ -13,12 +13,12 @@ angular.module('angularMeteor').config do
 
 		.state 'home',
 			url: '/'
-			templateUrl: 'client/views/home/home.ng.html'
+			templateUrl: 'client/views/home/home.html'
 			controller: 'HomeController'
 			
 		.state 'dashboard',
 			url: '/dashboard'
-			templateUrl: 'client/views/dashboard/dashboard.ng.html'
+			templateUrl: 'client/views/dashboard/dashboard.html'
 			controller: 'DashboardController'
 			resolve: {currentUser: auth}
 
@@ -28,7 +28,7 @@ angular.module('angularMeteor').config do
 
 
 angular.module('angularMeteor').run do
-	<[ 	$rootScope 	$state ]> ++ 
+	<[ 	$rootScope 	$state ]> ++
 	(	$rootScope, $state ) ->
 	
 		$rootScope.$on '$stateChangeError', (event, toState, toParams, fromState, fromParams, error) ->
