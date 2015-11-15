@@ -1,1 +1,1 @@
-angular.module 'angularMeteor', ['angular-meteor', 'ui.router']
+angular.module 'angularMeteor', ['angular-meteor', 'ui.router', 'ui.bootstrap']
