@@ -8,10 +8,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>MeteorAngularProject</title>
 
-	<link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
-	<link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
-	<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-
 </head>
 
 
@@ -20,13 +16,12 @@
 	<!--[if lt IE 9]>
 		<p class="browser-warning"><strong><i class="icon-exclamation-sign"></i> Warning</strong> - You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to properly view this website.</p>
 	<![endif]-->
-
 	<div id="layout-container" ng-app="angularMeteor">
-		<div ng-include="'client/views/_defaults/header.html'"></div>
+		<div ng-include="'client/views/_defaults/header.ng.html'"></div>
 		<div class="container" id="main-container">
 			<div ui-view></div>
 		</div>
-		<div ng-include="'client/views/_defaults/footer.html'"></div>
+		<div ng-include="'client/views/_defaults/footer.ng.html'"></div>
 	</div>
 	
 </body>

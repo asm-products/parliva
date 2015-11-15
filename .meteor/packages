@@ -11,7 +11,7 @@ meteorhacks:npm
 angularui:angular-ui-router
 cfs:standard-packages
 cfs:gridfs
-angular
+angular-with-blaze
 
 meteor-base             # Packages every Meteor app needs to have
 mobile-experience       # Packages for a great mobile UX
@@ -22,4 +22,10 @@ tracker                 # Meteor's client-side reactive programming library
 
 standard-minifiers      # JS/CSS minifiers run for production mode
 es5-shim                # ECMAScript 5 compatibility for older browsers.
+blaze-html-templates
 
+accounts-facebook
+accounts-google
+accounts-twitter
+ian:accounts-ui-bootstrap-3
+twbs:bootstrap

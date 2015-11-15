@@ -10,12 +10,12 @@ angular.module('angularMeteor').config do
 
 		.state 'home',
 			url: '/'
-			templateUrl: 'client/views/home/home.html'
+			templateUrl: 'client/views/home/home.ng.html'
 			controller: 'HomeController'
 			
 		.state 'dashboard',
 			url: '/dashboard'
-			templateUrl: 'client/views/dashboard/dashboard.html'
+			templateUrl: 'client/views/dashboard/dashboard.ng.html'
 			controller: 'DashboardController'
 			resolve: {currentUser: auth}
 

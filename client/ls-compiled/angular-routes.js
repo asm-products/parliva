@@ -5,19 +5,13 @@ angular.module('angularMeteor').config(['$urlRouterProvider', '$stateProvider', 
   auth = ['$meteor'].concat(function($meteor){
     return $meteor.requireUser();
   });
-  $stateProvider.state('entrySignIn', {
-    url: '/sign-in',
-    template: '<meteor-include src="entrySignIn"></meteor-include>'
-  }).state('entrySignUp', {
-    url: '/sign-up',
-    template: '<meteor-include src="entrySignUp"></meteor-include>'
-  }).state('home', {
+  $stateProvider.state('home', {
     url: '/',
-    templateUrl: 'client/views/home/home.html',
+    templateUrl: 'client/views/home/home.ng.html',
     controller: 'HomeController'
   }).state('dashboard', {
     url: '/dashboard',
-    templateUrl: 'client/views/dashboard/dashboard.html',
+    templateUrl: 'client/views/dashboard/dashboard.ng.html',
     controller: 'DashboardController',
     resolve: {
       currentUser: auth
