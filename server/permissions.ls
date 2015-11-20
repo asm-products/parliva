@@ -7,6 +7,9 @@
 # 		true
 # 	update: -> false
 # 	remove: -> false
+# Messages.before.update (userId, doc, fieldNames, modifier, options) ->
+# 	modifier.$set = modifier.$set || {};
+# 	modifier.$set.updated = Date.now();
 
 # Portraits.allow do
 # 	download: (userId, fileObj) -> true
